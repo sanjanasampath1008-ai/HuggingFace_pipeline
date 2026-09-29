@@ -1,0 +1,5 @@
+id,text,sentiment,confidence
+1,I really enjoyed this movie. The story was interesting and the actors performed very well.,POSITIVE,0.9999
+2,The product was terrible and stopped working after two days.,NEGATIVE,0.9997
+3,The weather is beautiful today and I am feeling happy.,POSITIVE,0.9999
+4,I am disappointed with the service. The delivery was extremely late.,NEGATIVE,0.9998

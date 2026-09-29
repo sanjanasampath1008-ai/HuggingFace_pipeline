@@ -1,0 +1,5 @@
+pipeline,input_type,output_type,application
+Sentiment Analysis,Text,Sentiment label and confidence,Opinion and emotion detection
+Text Summarization,Long text,Short summary,News and document summarization
+English to Tamil Translation,English text,Tamil translation,Language translation
+Question Answering,Context and question,Answer and confidence,Information extraction

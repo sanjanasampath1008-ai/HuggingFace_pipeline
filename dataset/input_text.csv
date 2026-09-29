@@ -1,0 +1,12 @@
+id,task,text
+1,Sentiment,"I really enjoyed this movie. The story was interesting and the actors performed very well."
+2,Sentiment,"The product was terrible and stopped working after two days."
+3,Sentiment,"The weather is beautiful today and I am feeling happy."
+4,Sentiment,"I am disappointed with the service. The delivery was extremely late."
+5,Summarization,"Artificial intelligence is changing many industries around the world. It is being used in healthcare to assist doctors, in education to provide personalized learning, and in transportation to improve navigation and safety. Businesses are also using artificial intelligence to analyze large amounts of data and automate repetitive tasks. Although AI provides many benefits, organizations must also consider issues such as privacy, security, bias, and responsible use of technology."
+6,Summarization,"Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data without being explicitly programmed for every task. Machine learning algorithms are used in applications such as recommendation systems, fraud detection, image recognition, speech recognition, and medical diagnosis. The performance of these systems depends on the quality and quantity of the training data."
+7,Translation,"Artificial intelligence is helping students learn new concepts through personalized educational tools."
+8,Translation,"Technology has changed the way people communicate, work, and travel."
+9,QA,"Hugging Face provides tools and libraries that make it easier for developers to use pre-trained transformer models. Its Transformers library supports many natural language processing tasks such as sentiment analysis, translation, summarization, and question answering."
+10,QA,"Python is a popular programming language used in artificial intelligence, data science, web development, and automation. Its simple syntax makes it suitable for beginners as well as experienced developers."
+
